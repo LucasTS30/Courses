@@ -1,0 +1,116 @@
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\EFCoreExample.exe
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\EFCoreExample.deps.json
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\EFCoreExample.runtimeconfig.json
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\EFCoreExample.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\EFCoreExample.pdb
+E:\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.csproj.AssemblyReference.cache
+E:\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.AssemblyInfoInputs.cache
+E:\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.AssemblyInfo.cs
+E:\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.csproj.CoreCompileInputs.cache
+E:\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.dll
+E:\Cursos\EFCoreExample\obj\Debug\net6.0\refint\EFCoreExample.dll
+E:\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.pdb
+E:\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.genruntimeconfig.cache
+E:\Cursos\EFCoreExample\obj\Debug\net6.0\ref\EFCoreExample.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Humanizer.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.csproj.CopyComplete
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\EFCoreExample.exe
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\EFCoreExample.deps.json
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\EFCoreExample.runtimeconfig.json
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\EFCoreExample.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\EFCoreExample.pdb
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Humanizer.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.csproj.AssemblyReference.cache
+E:\Cursos e desafios\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos e desafios\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.AssemblyInfoInputs.cache
+E:\Cursos e desafios\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.AssemblyInfo.cs
+E:\Cursos e desafios\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.csproj.CoreCompileInputs.cache
+E:\Cursos e desafios\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.csproj.CopyComplete
+E:\Cursos e desafios\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\obj\Debug\net6.0\refint\EFCoreExample.dll
+E:\Cursos e desafios\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.pdb
+E:\Cursos e desafios\Cursos\EFCoreExample\obj\Debug\net6.0\EFCoreExample.genruntimeconfig.cache
+E:\Cursos e desafios\Cursos\EFCoreExample\obj\Debug\net6.0\ref\EFCoreExample.dll
